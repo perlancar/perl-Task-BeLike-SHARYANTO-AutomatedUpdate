@@ -17,6 +17,8 @@ This includes all/most modules which use L<http://gudangdata.org> as source.
 
 =pkg Business::ID::BCA
 
+=pkg Business::ID::Mandiri
+
 =pkg Locale::ID::Locality
 
 =pkg Locale::ID::Province
